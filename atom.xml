@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://victoyzz.github.io/linBlog</id>
+    <title>欢迎来到双木林的技术博客~</title>
+    <updated>2024-06-14T09:08:45.053Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://victoyzz.github.io/linBlog"/>
+    <link rel="self" href="https://victoyzz.github.io/linBlog/atom.xml"/>
+    <subtitle>温故而知新</subtitle>
+    <logo>https://victoyzz.github.io/linBlog/images/avatar.png</logo>
+    <icon>https://victoyzz.github.io/linBlog/favicon.ico</icon>
+    <rights>All rights reserved 2024, 欢迎来到双木林的技术博客~</rights>
+    <entry>
+        <title type="html"><![CDATA[詹姆斯大战三千兵马俑]]></title>
+        <id>https://victoyzz.github.io/linBlog/post/zhan-mu-si-da-zhan-san-qian-bing-ma-yong/</id>
+        <link href="https://victoyzz.github.io/linBlog/post/zhan-mu-si-da-zhan-san-qian-bing-ma-yong/">
+        </link>
+        <updated>2024-06-14T09:04:37.000Z</updated>
+        <content type="html"><![CDATA[<p>测试😜</p>
+]]></content>
+    </entry>
+</feed>
